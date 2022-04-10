@@ -8,8 +8,9 @@ module.exports = {
 }*/
 
 module.exports = { 
+  outputDir: './docs' ,
   publicPath: process.env.NODE_ENV = 'production' 
   ?  '/vuepage/' 
   : '/', 
-  outputDir: './docs' 
+  
 }
