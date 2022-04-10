@@ -4,5 +4,5 @@ module.exports = defineConfig({
 })
 module.exports = {
   publicPath: '/vuepage',
-  outputDir: 'docs'
+  outputDir: 'vuepage/src/App/docs'
 }
