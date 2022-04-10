@@ -3,6 +3,6 @@ module.exports = defineConfig({
   transpileDependencies: true
 })
 module.exports = {
-  publicPath: '/<repository_name>',
+  publicPath: '/vuepage',
   outputDir: 'docs'
 }
